@@ -9,8 +9,4 @@ The FTDI-Breakout is an USB to Serial Adapter with FTDI Chipset.
 * Overcurrent protection (resettable polyswitch fuse)
 * Standard 6 pin connector with GND, CTS, VCC, TX, RX, DTR
 * microUSB-Connector
-
-
-## Shop
-* [FTDI FT231X Breakout](http://www.watterott.com/en/FTDI-Breakout-Reloaded-V2) (with soldered pin headers)
-* [FTDI FT231X Breakout Light](http://www.watterott.com/en/FTDI-Breakout-Reloaded-V2-Light)
+* **[Documentation on learn.watterott.com](http://learn.watterott.com/ftdi-breakout/)**
