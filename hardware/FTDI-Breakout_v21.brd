@@ -153,8 +153,8 @@
 <hole x="2" y="2" drill="1.8"/>
 <hole x="2" y="14" drill="1.8"/>
 <text x="12.22375" y="14.9225" size="0.8128" layer="22" font="vector" ratio="12" rot="MR0" align="top-center">FTDI Breakout</text>
-<wire x1="-1" y1="15" x2="-1" y2="1" width="2" layer="46"/>
-<wire x1="31" y1="15" x2="31" y2="1" width="2" layer="46"/>
+<wire x1="-1" y1="16" x2="-1" y2="0" width="2" layer="46"/>
+<wire x1="31" y1="16" x2="31" y2="0" width="2" layer="46"/>
 <text x="34" y="8" size="1.27" layer="21" font="vector" ratio="10" rot="R90" align="center">7mm Spacing</text>
 </plain>
 <libraries>
