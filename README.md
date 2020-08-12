@@ -1,7 +1,8 @@
 # FTDI-Breakout
 The FTDI-Breakout is an USB to Serial Adapter with FTDI Chipset.
 
-![FTDI-Breakout](https://github.com/watterott/FTDI-Breakout/raw/master/hardware/FTDI-Breakout_v21.jpg)
+![FTDI-Breakout v2](https://github.com/watterott/FTDI-Breakout/raw/master/hardware/FTDI-Breakout_v21.jpg)
+![FTDI-Breakout v3](https://github.com/watterott/FTDI-Breakout/raw/master/hardware/FTDI-Breakout_v30.jpg)
 
 * [FTDI FT231X](https://www.ftdichip.com/Products/ICs/FT231X.html) USB UART Bridge (up to 1M baud)
 * 3.3V or 5V logic supply voltage selectable by switch
